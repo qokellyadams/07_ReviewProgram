@@ -4,7 +4,7 @@
  * TODO: Class Period
  * TODO: Program Description
  */
-public class HelloWorld {
+public class ReviewProgram {
 
 	public static void main(String[] args) {
 		//TODO: Implement Program Requirements Here
