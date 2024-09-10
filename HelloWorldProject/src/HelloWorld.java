@@ -4,7 +4,8 @@
  * TODO: Class Period
  * TODO: Program Description
  */
-public class ReviewProgram {
+//Yes, I know the file name should be something like ReviewProgram - working on it!
+public class HelloWorld {
 
 	public static void main(String[] args) {
 		//TODO: Implement Program Requirements Here
